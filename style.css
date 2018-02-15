@@ -221,8 +221,8 @@ footer ul{
 	display: block;
 	height: 40px;
 	width: 100%;
-	backgroud: url(images/burger.png) no-repeat 98% center;
-	background-color: #404040;
+	background: url(images/burger.png) no-repeat 98% center;
+	background-color: #EEEE;
 	cursor: pointer;	
 }
 header .wrapper{
